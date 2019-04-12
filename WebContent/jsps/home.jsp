@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
+<h1 align="center">Welcome to Devops Learning Center.</h1>
 <h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios.
 	Please contact +91-9980923226 for more info. This changes are for webhooks</h1>
 <hr>
@@ -19,7 +19,7 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
+		Devops Learning Center, 
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
 		+91-9980923226
