@@ -23,6 +23,7 @@
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
 		+91-9980923226
+		niranjansingh92@gmail.com
 	</span>
 </div>
 <hr>
